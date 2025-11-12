@@ -22,8 +22,8 @@
 ---
 
 ###  Current Quest
-> Build the galaxy. Earn the stars, Unlock the planet. 
- Project: **CodeGalaxy** — A gamified to-do list that turns productivity into a cosmic adventure
+> Build the galaxy. Earn the stars, unlock the planet. 
+> Project: **CodeGalaxy** — A gamified to-do list that turns productivity into a cosmic adventure
 
 ---
 
