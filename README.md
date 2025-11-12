@@ -3,7 +3,7 @@
 <h1 align="center">🧑‍🚀 Welcome to <code>Aryan.exe</code> — Initializing Developer Mode...</h1>
 
 <p align="center">
-  <img src="[https://i.imgur.com/ck1hb4M.gif](https://i.imgur.com/YtVYBPU_d.webp?maxwidth=520&shape=thumb&fidelity=high)" width="400"/>
+  <img src="https://i.imgur.com/ck1hb4M.gif" width="400"/>
 </p>
 
 ---
