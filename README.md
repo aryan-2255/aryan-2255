@@ -6,16 +6,6 @@
   <img src="https://i.imgur.com/YtVYBPU.png" width="400"/>
 </p>
 
-<h1 align="center">🎮 Welcome to Flappy Dev 🐤</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YOkrK6AG4ZTQ0/giphy.gif" width="400" alt="flappy bird gif"/>
-</p>
-
-<p align="center">
-  <b>Press ⬆️ SPACE to Keep Coding!</b>
-</p>
-
 
 ---
 
