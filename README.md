@@ -35,7 +35,7 @@
 
 ---
 
-### ⚙️ System Log
+### System Log
 
 ```bash
 > git commit -m "Started learning JavaScript DOM "
