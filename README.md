@@ -6,6 +6,13 @@
   <img src="https://i.imgur.com/YtVYBPU.png" width="400"/>
 </p>
 
+<!-- 🎮 Fun Game-Style GitHub README -->
+<h1 align="center">🕹️ Welcome to <code>Aryan's Dev Quest</code></h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/JkG42wY.gif" width="400" alt="Loading..."/>
+</p>
+
 ---
 
 ### ⚔️ Player Stats
@@ -40,14 +47,5 @@
 > git commit -m "Started learning JavaScript DOM 🌿"
 > git commit -m "Practising Python DSA ⚙️"
 > git push origin main 🚀
-
-
-### game
-<!-- 🎮 Fun Game-Style GitHub README -->
-<h1 align="center">🕹️ Welcome to <code>Aryan's Dev Quest</code></h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/JkG42wY.gif" width="400" alt="Loading..."/>
-</p>
 
 
