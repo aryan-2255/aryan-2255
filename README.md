@@ -37,7 +37,6 @@
 
 ### System Log
 
-
 ```bash
 > git commit -m "Started learning JavaScript DOM "
 > git commit -m "Practising Python DSA "
