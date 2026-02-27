@@ -13,24 +13,22 @@
 
 | Attribute | Level |
 |------------|--------|
-|   Frontend Power | ⚡⚡⚡⚡⚡ |
-| 🐍 Python Wizardry | ⚡⚡⚡⚡ |
-| ⚙️ Problem Solving | ⚡⚡⚡ |
+| ⚙️ Problem Solving | ⚡⚡⚡⚡ |
 | ☕ Coffee Dependency | ⚡⚡⚡⚡⚡⚡ |
 |   Curiosity | ∞ |
 
 ---
 
 ###  Current Quest
-> Build the galaxy. Earn the stars, unlock the planet. 
-> Project: **CodeGalaxy** — A gamified to-do list that turns productivity into a cosmic adventure
+> Bbbbbb
+> bbbbb
 
 ---
 
 ###  Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,sql,dbms,git,github,vscode,figma" />
 </p>
 
 ---
@@ -38,8 +36,8 @@
 ### System Log
 
 ```bash
-> git commit -m "Started learning JavaScript DOM "
-> git commit -m "Practising Python DSA "
+> git commit -m " "
+> git commit -m " "
 > git push origin main 
 
 
