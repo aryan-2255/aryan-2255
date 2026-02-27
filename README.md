@@ -28,7 +28,7 @@
 ###  Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,sql,dbms,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,git,github,vscode,figma" />
 </p>
 
 ---
