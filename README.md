@@ -1,6 +1,6 @@
 <!-- 💫 Aryan's Game-Themed GitHub README 💫 -->
 
-<h1 align="center"> Welcome to <code>Aryan.exe</code> — Initializing Developer Mode...</h1>
+<h1 align="center"> Welcome to <code>Aryan.exe</code> Initializing Developer Mode...</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/YtVYBPU.png" width="400"/>
